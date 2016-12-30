@@ -1,0 +1,3165 @@
+<?xml version="1.0"?>
+<Ontology version="2">
+<Concepts>
+<Concept name="object" root="T">
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="object" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="instrument">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="instrument" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="language">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="language" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="action">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="action" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="credential" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="evidence combination">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="evidence combination" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="actor">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="actor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="object view">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="object view" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="collected information">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="collected information" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="translator">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="translator" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="photographer">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="photographer" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="interpreter">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="interpreter" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="editor">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="editor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="reporter">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="reporter" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="organization">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="organization" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="person">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="person" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="source">
+      <DirectSuperConcepts>
+        <ConceptReference name="actor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="source" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="harmonious evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence combination" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="harmonious evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="redundant evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence combination" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="redundant evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="dissonant evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence combination" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="dissonant evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="tangible evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="tangible evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="testimonial evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="missing evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="missing evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="authoritative record">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="authoritative record" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="processed evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="processed evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="evidence credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="evidence credential" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="credibility credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="credibility credential" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="competence credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="competence credential" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="believability credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="believability credential" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="evidence processing action">
+      <DirectSuperConcepts>
+        <ConceptReference name="action" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="evidence processing action" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="sensing device">
+      <DirectSuperConcepts>
+        <ConceptReference name="instrument" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="sensing device" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="computer network">
+      <DirectSuperConcepts>
+        <ConceptReference name="instrument" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="computer network" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="software">
+      <DirectSuperConcepts>
+        <ConceptReference name="instrument" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="software" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="recorder">
+      <DirectSuperConcepts>
+        <ConceptReference name="sensing device" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="recorder" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="photo camera">
+      <DirectSuperConcepts>
+        <ConceptReference name="sensing device" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="photo camera" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="editing">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence processing action" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="editing" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="interpretation">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence processing action" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="interpretation" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="translation">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence processing action" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="translation" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="photo">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence processing action" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="photo" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="recording">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence processing action" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="recording" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="transmission">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence processing action" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="transmission" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="transfer">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence processing action" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="transfer" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="object credibility credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="object credibility credential" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="source credibility credential">
+      <DirectSuperConcepts>
+        <ConceptReference name="credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="source credibility credential" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="relevance">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="relevance" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="evidence from chain of custody">
+      <DirectSuperConcepts>
+        <ConceptReference name="processed evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="evidence from chain of custody" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="testimonial evidence about tangible evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="processed evidence" />
+        <ConceptReference name="testimonial evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="testimonial evidence about tangible evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="unequivocal testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="testimonial evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="unequivocal testimonial evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="equivocal testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="testimonial evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="equivocal testimonial evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="tangible evidence about testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="processed evidence" />
+        <ConceptReference name="tangible evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="tangible evidence about testimonial evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="real tangible evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="tangible evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="real tangible evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="demonstrative tangible evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="tangible evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="demonstrative tangible evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="contradictory evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="dissonant evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="contradictory evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="divergent evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="dissonant evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="divergent evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="corroborative redundant evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="redundant evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="corroborative redundant evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="cumulative redundant evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="redundant evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="cumulative redundant evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="corroborative evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="harmonious evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="corroborative evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="convergent evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="harmonious evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="convergent evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="synergistic evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="convergent evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="synergistic evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="testimonial evidence based on opinion">
+      <DirectSuperConcepts>
+        <ConceptReference name="equivocal testimonial evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="testimonial evidence based on opinion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="completely equivocal testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="equivocal testimonial evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="completely equivocal testimonial evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="probabilistically equivocal testimonial evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="equivocal testimonial evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="probabilistically equivocal testimonial evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="unequivocal testimonial evidence based upon direct observation">
+      <DirectSuperConcepts>
+        <ConceptReference name="unequivocal testimonial evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="unequivocal testimonial evidence based upon direct observation" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="video recorder">
+      <DirectSuperConcepts>
+        <ConceptReference name="recorder" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="video recorder" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="audio recorder">
+      <DirectSuperConcepts>
+        <ConceptReference name="recorder" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="audio recorder" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="unequivocal testimonial evidence obtained at second hand">
+      <DirectSuperConcepts>
+        <ConceptReference name="processed evidence" />
+        <ConceptReference name="unequivocal testimonial evidence" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="unequivocal testimonial evidence obtained at second hand" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="hypothesis">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="hypothesis" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="hypothesis with direct evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="hypothesis" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="hypothesis with direct evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="evidence direction">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="evidence direction" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="favoring evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence direction" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="favoring evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="disfavoring evidence">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence direction" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="disfavoring evidence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="publication">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="publication" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="user instance">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="user instance" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="area of expertise">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="area of expertise" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="position">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="state">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="state" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="store">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="store" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="computer">
+      <DirectSuperConcepts>
+        <ConceptReference name="object" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="computer" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="tablet computer">
+      <DirectSuperConcepts>
+        <ConceptReference name="computer" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="tablet computer" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="university position">
+      <DirectSuperConcepts>
+        <ConceptReference name="position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="university position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="Computer Science">
+      <DirectSuperConcepts>
+        <ConceptReference name="area of expertise" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="Computer Science" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="Mathematics">
+      <DirectSuperConcepts>
+        <ConceptReference name="area of expertise" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="Mathematics" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="Physics">
+      <DirectSuperConcepts>
+        <ConceptReference name="area of expertise" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="Physics" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="journal">
+      <DirectSuperConcepts>
+        <ConceptReference name="publication" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="journal" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="conference proceedings">
+      <DirectSuperConcepts>
+        <ConceptReference name="publication" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="conference proceedings" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="book">
+      <DirectSuperConcepts>
+        <ConceptReference name="publication" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="book" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="article">
+      <DirectSuperConcepts>
+        <ConceptReference name="publication" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="article" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="PhD dissertation">
+      <DirectSuperConcepts>
+        <ConceptReference name="publication" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="PhD dissertation" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="journal paper">
+      <DirectSuperConcepts>
+        <ConceptReference name="article" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="journal paper" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="conference paper">
+      <DirectSuperConcepts>
+        <ConceptReference name="article" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="conference paper" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="book chapter">
+      <DirectSuperConcepts>
+        <ConceptReference name="article" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="book chapter" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="university research unit">
+      <DirectSuperConcepts>
+        <ConceptReference name="organization" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="university research unit" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="government organization">
+      <DirectSuperConcepts>
+        <ConceptReference name="organization" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="government organization" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="educational organization">
+      <DirectSuperConcepts>
+        <ConceptReference name="organization" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="educational organization" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="company">
+      <DirectSuperConcepts>
+        <ConceptReference name="organization" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="company" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="student">
+      <DirectSuperConcepts>
+        <ConceptReference name="person" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="student" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="employee">
+      <DirectSuperConcepts>
+        <ConceptReference name="person" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="employee" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="faculty position">
+      <DirectSuperConcepts>
+        <ConceptReference name="university position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="faculty position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="honorary position">
+      <DirectSuperConcepts>
+        <ConceptReference name="university position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="honorary position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="staff position">
+      <DirectSuperConcepts>
+        <ConceptReference name="university position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="staff position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="long-term faculty position">
+      <DirectSuperConcepts>
+        <ConceptReference name="faculty position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="long-term faculty position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="short-term faculty position">
+      <DirectSuperConcepts>
+        <ConceptReference name="faculty position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="short-term faculty position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="medium-term faculty position">
+      <DirectSuperConcepts>
+        <ConceptReference name="faculty position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="medium-term faculty position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="university employee">
+      <DirectSuperConcepts>
+        <ConceptReference name="employee" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="university employee" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="government employee">
+      <DirectSuperConcepts>
+        <ConceptReference name="employee" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="government employee" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="company employee">
+      <DirectSuperConcepts>
+        <ConceptReference name="employee" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="company employee" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="undergraduate student">
+      <DirectSuperConcepts>
+        <ConceptReference name="student" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="undergraduate student" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="graduate student">
+      <DirectSuperConcepts>
+        <ConceptReference name="student" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="graduate student" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="university">
+      <DirectSuperConcepts>
+        <ConceptReference name="educational organization" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="university" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="federal government organization">
+      <DirectSuperConcepts>
+        <ConceptReference name="government organization" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="federal government organization" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="university research lab">
+      <DirectSuperConcepts>
+        <ConceptReference name="university research unit" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="university research lab" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="university research center">
+      <DirectSuperConcepts>
+        <ConceptReference name="university research unit" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="university research center" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="PhD student">
+      <DirectSuperConcepts>
+        <ConceptReference name="graduate student" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="PhD student" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="MS student">
+      <DirectSuperConcepts>
+        <ConceptReference name="graduate student" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="MS student" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="BS student">
+      <DirectSuperConcepts>
+        <ConceptReference name="undergraduate student" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="BS student" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="staff member">
+      <DirectSuperConcepts>
+        <ConceptReference name="university employee" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="staff member" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="faculty member">
+      <DirectSuperConcepts>
+        <ConceptReference name="university employee" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="faculty member" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="PhD advisor">
+      <DirectSuperConcepts>
+        <ConceptReference name="faculty member" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="PhD advisor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="research professor">
+      <DirectSuperConcepts>
+        <ConceptReference name="faculty member" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="research professor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="professor">
+      <DirectSuperConcepts>
+        <ConceptReference name="faculty member" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="professor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="instructor">
+      <DirectSuperConcepts>
+        <ConceptReference name="faculty member" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="instructor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="full professor">
+      <DirectSuperConcepts>
+        <ConceptReference name="professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="full professor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="associate professor">
+      <DirectSuperConcepts>
+        <ConceptReference name="professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="associate professor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="assistant professor">
+      <DirectSuperConcepts>
+        <ConceptReference name="professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="assistant professor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="research full professor">
+      <DirectSuperConcepts>
+        <ConceptReference name="research professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="research full professor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="research associate professor">
+      <DirectSuperConcepts>
+        <ConceptReference name="research professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="research associate professor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+<Concept name="research assistant professor">
+      <DirectSuperConcepts>
+        <ConceptReference name="research professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <ConceptReference name="research assistant professor" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Concept>
+</Concepts>
+<Instances>
+<Instance name="credibility">
+      <DirectSuperConcepts>
+        <ConceptReference name="believability credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="credibility" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="competence">
+      <DirectSuperConcepts>
+        <ConceptReference name="believability credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="competence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="understandability">
+      <DirectSuperConcepts>
+        <ConceptReference name="competence credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="understandability" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="access">
+      <DirectSuperConcepts>
+        <ConceptReference name="competence credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="access" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="inferential force">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="inferential force" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="believability">
+      <DirectSuperConcepts>
+        <ConceptReference name="evidence credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="believability" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="indirect relevance">
+      <DirectSuperConcepts>
+        <ConceptReference name="relevance" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="indirect relevance" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="direct relevance">
+      <DirectSuperConcepts>
+        <ConceptReference name="relevance" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="direct relevance" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="inferential ability">
+      <DirectSuperConcepts>
+        <ConceptReference name="source credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="inferential ability" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="observational sensitivity">
+      <DirectSuperConcepts>
+        <ConceptReference name="source credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="observational sensitivity" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="objectivity">
+      <DirectSuperConcepts>
+        <ConceptReference name="source credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="objectivity" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="veracity">
+      <DirectSuperConcepts>
+        <ConceptReference name="source credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="veracity" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="fidelity">
+      <DirectSuperConcepts>
+        <ConceptReference name="object credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="fidelity" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="security">
+      <DirectSuperConcepts>
+        <ConceptReference name="object credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="security" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="reliability">
+      <DirectSuperConcepts>
+        <ConceptReference name="object credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="reliability" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="accuracy">
+      <DirectSuperConcepts>
+        <ConceptReference name="object credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="accuracy" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="authenticity">
+      <DirectSuperConcepts>
+        <ConceptReference name="object credibility credential" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="authenticity" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="PhD advisor quality criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="PhD advisor quality criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="citations criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="citations criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="employers of graduates criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="employers of graduates criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="peer opinion criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="peer opinion criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="professional reputation criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="professional reputation criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="publications with advisor criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="publications with advisor criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="quality of student results criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="quality of student results criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="research funding criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="research funding criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="research group status criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="research group status criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="research publications criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="research publications criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="student learning experience criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="student learning experience criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="student opinion criterion">
+      <DirectSuperConcepts>
+        <ConceptReference name="criterion" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="student opinion criterion" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Artificial Intelligence">
+      <DirectSuperConcepts>
+        <ConceptReference name="Computer Science" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Artificial Intelligence" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Information Security">
+      <DirectSuperConcepts>
+        <ConceptReference name="Computer Science" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Information Security" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Software Engineering">
+      <DirectSuperConcepts>
+        <ConceptReference name="Computer Science" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Software Engineering" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="retired position">
+      <DirectSuperConcepts>
+        <ConceptReference name="honorary position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="retired position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="tenure-track position">
+      <DirectSuperConcepts>
+        <ConceptReference name="medium-term faculty position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="tenure-track position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="visiting position">
+      <DirectSuperConcepts>
+        <ConceptReference name="short-term faculty position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="visiting position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="tenured position">
+      <DirectSuperConcepts>
+        <ConceptReference name="long-term faculty position" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="tenured position" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Pearce 2007">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD dissertation" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Pearce 2007" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Adam Pearce">
+      <DirectSuperConcepts>
+        <ConceptReference name="person" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Adam Pearce" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Google">
+      <DirectSuperConcepts>
+        <ConceptReference name="company" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Google" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Pearce and Doe 2006">
+      <DirectSuperConcepts>
+        <ConceptReference name="conference paper" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Pearce and Doe 2006" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Intelligent Systems Center">
+      <DirectSuperConcepts>
+        <ConceptReference name="university research center" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Intelligent Systems Center" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="George Mason University">
+      <DirectSuperConcepts>
+        <ConceptReference name="university" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="George Mason University" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Indiana University">
+      <DirectSuperConcepts>
+        <ConceptReference name="university" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Indiana University" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="June Allison">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD student" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="June Allison" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Peter Jones">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD student" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Peter Jones" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Bob Sharp">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD student" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Bob Sharp" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Bill Bones">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD advisor" />
+        <ConceptReference name="assistant professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Bill Bones" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Jill Knox">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD advisor" />
+        <ConceptReference name="assistant professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Jill Knox" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="John Doe">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD advisor" />
+        <ConceptReference name="associate professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="John Doe" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Dan Smith">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD advisor" />
+        <ConceptReference name="full professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Dan Smith" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+<Instance name="Jane Austin">
+      <DirectSuperConcepts>
+        <ConceptReference name="PhD advisor" />
+        <ConceptReference name="full professor" />
+      </DirectSuperConcepts>
+      <documentation value="" />
+      <NLInfo>
+        <LexicalInfo />
+        <NLPattern>
+          <Fragments>
+            <OntologyEntity>
+              <InstanceReference name="Jane Austin" />
+            </OntologyEntity>
+          </Fragments>
+        </NLPattern>
+        <NLPattern>
+          <Fragments />
+        </NLPattern>
+      </NLInfo>
+    </Instance>
+</Instances>
+</Ontology>
